@@ -1,4 +1,4 @@
-# Um CRUD com KNEX
+# Um CRUD com KNEX - Um Query Builder
 
 ## Descrição:
 ```01/09/2024 ```
@@ -20,7 +20,7 @@ pg 8.12.0
 sqlite3 5.1.7
 
 ```
-
+### [](https://knexjs.org/)
 ### Por cosme.teixeira@gmail.com
 
 
