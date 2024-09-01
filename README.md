@@ -20,7 +20,7 @@ pg 8.12.0
 sqlite3 5.1.7
 
 ```
-### [https://knexjs.org/]
+### Site Oficial do Knex: https://knexjs.org/
 ### Por cosme.teixeira@gmail.com
 
 
